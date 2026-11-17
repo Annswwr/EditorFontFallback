@@ -1,0 +1,16 @@
+{
+  "name": "com.annswwr.editorfontfallback",
+  "version": "1.0.0",
+  "displayName": "Editor Font Fallback",
+  "description": "Makes unsupported / complex languages render correctly inside the Unity Editor.",
+  "unity": "6000.5",
+  "author": {
+    "name": "Annswwr",
+    "url": "https://github.com/Annswwr"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Annswwr/EditorFontFallback.git"
+  }
+}
